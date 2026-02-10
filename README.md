@@ -2,6 +2,9 @@
 
 A simple todo list app built with React and Base44 backend.
 
+* https://github.com/orgs/base44/discussions/102
+* https://github.com/nara04040/base44_backend
+
 ## Structure
 
 ```
